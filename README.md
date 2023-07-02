@@ -1,4 +1,4 @@
-# Task Manager App with color theme switcher 
+## Task Manager App with color theme switcher 
 
  A sleek and efficient task manager app built with React. Stay organized, track your tasks, and boost your productivity. Let's get things done!
 
@@ -53,7 +53,7 @@ Mobile
 
 ### Links
 
-- Live Site URL: [See it live](https://your-live-site-url.com)
+- Live Site URL: [See it live](https://taskmanager-webapp.netlify.app/)
 
 ## My process
 
