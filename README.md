@@ -53,7 +53,7 @@ Mobile
 
 ### Links
 
-- Live Site URL: [See it live]([https://taskmanager-web.netlify.app/])
+- Live Site URL: [See it live](https://taskmanager-web.netlify.app/)
 
 ## My process
 
